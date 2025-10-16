@@ -59,8 +59,6 @@ using tools like **SQL, Power BI, Tableau, Snowflake, and R** to solve real-worl
 
 ---
 
----
-
 ### 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/divyanshiimishra)
 📧 **divyanshim07@gmail.com**
