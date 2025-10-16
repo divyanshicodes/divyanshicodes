@@ -59,31 +59,6 @@ using tools like **SQL, Power BI, Tableau, Snowflake, and R** to solve real-worl
 
 ---
 
-### 🛠️ Tools I Use
-
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <!-- R -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-  <!-- Tableau -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tableau.svg" width="40" height="40"/>
-  <!-- Power BI -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.svg" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <!-- Snowflake -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/snowflake.svg" width="40" height="40"/>
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
-
-
-
 ---
 
 ### 📬 Connect With Me
