@@ -20,12 +20,29 @@ using tools like **SQL, Power BI, Tableau, Snowflake, and R** to solve real-worl
 
 ---
 
-### 🧰 Technical Skills
-**Languages:** SQL, Python, R, HTML/CSS  
-**Analytics:** A/B Testing, Predictive Modeling, ROI Analysis, Segmentation  
-**Data Tools:** Tableau, Power BI, Excel, Looker Studio, Salesforce  
-**Cloud & Databases:** AWS (S3, Redshift, RDS), Snowflake, SQL Server  
-**Certifications:** SQL (University of Michigan), Tableau (UC Davis), Power BI (Microsoft)
+### 🛠️ Tools I Use
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <!-- Tableau -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/>
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <!-- Snowflake -->
+  <img src="https://img.icons8.com/color/48/snowflake.png" width="40" height="40"/>
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
 
 ---
 
